@@ -38,6 +38,8 @@ git status
 git commit -m"<*message*>"
 ### b6. Check git log (optional)
 git log
+### b7. Push code
+git push origin main
 
 ![Workflow](https://prnt.sc/NYXSzSAhS4IO)
 # 3. Javascript
