@@ -1,0 +1,9 @@
+const scores = [85, 90, 70];
+const ages = [18, 21, 16, 25];
+const words = ['apple', 'banana', 'cherry', 'date'];
+//5.1
+console.log(scores.some(n => n > 80));
+//5.2
+console.log(ages.some(n => n < 18));
+//5.3
+console.log(words.some(str => str.length > 5));

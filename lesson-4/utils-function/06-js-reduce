@@ -1,0 +1,13 @@
+const scores = [85, 90, 78];
+const numbers = [1, 2, 3, 4];
+const expenses = [50, 100, 150];
+
+//6.1
+let sum = numbers.reduce((number0, n) => number0 + n, 0);
+console.log(sum);
+//6.2
+let sum1 = numbers.reduce((number0, n) => number0 * n, 1);
+console.log(sum1);
+//6.3
+let sum3 = expenses.reduce((number0, n) => number0 + n, 0);
+console.log(sum3);
