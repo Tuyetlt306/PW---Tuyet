@@ -1,0 +1,15 @@
+1. Cấu trúc DOM cơ bản của 1 trang web gồm:
+- Thẻ đóng 
+- Thẻ mở
+- Thẻ tự dóng
+2. Mô tả cấu trúc html của 1 table
+<table id ="userTable">
+ <thread>
+  <tr>
+    <th>STT</th>
+    <th>Username</th>
+    <th>Information</th>
+  </tr>
+ </thread>
+ <tbody></tbody>
+</table>      
